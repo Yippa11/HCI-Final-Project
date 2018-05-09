@@ -24,7 +24,7 @@ After being assigned many [readings](https://cs3041-18d.github.io/docs/schedule.
 
 Prototyping is another important step in the design process because it helps to show the team if our idea is actually capable of solving the problem at hand, and also seeing if the application runs as intended. In one of our readings on prototyping we learned that first attempts at building applications are almost always wrong and it will take multiple attempts to get to where we want. Prototyping allows the programmer to observe how users interact with their application, and to see if their initial designs were a good idea or not. There are many different types of prototyping that we can utilize in the design process that allow us to carry out tests without having to put in the time and effort required for a final version.  An example fo this was in [Design for Tension](https://medium.com/design-for-tension/design-for-tension-designing-a-chat-box-for-friends-of-depressed-people-4275612161d) our group mapped out all the repsonse paths for our chatbot to take based on the user inputs to the conversation:
 
-![chat flow](design flow)
+![chat flow](https://github.com/Yippa11/HCI-Final-Project/blob/master/design-flow.jpeg)
 
 ### 4. User Testing
             
