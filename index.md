@@ -6,7 +6,7 @@ Human Computer Interaction (HCI) is a mix of both computer science and design as
 
 ### 1. Brainstorming for the right solution
 
-The first task in each of our projects was for the team to get together and brainstorm ideas on where to take the project based on the assignment.  In the reading [The Design of Everyday Things](https://cs3041-18d.github.io/docs/reading/DesignThinking_DonNorman.pdf) the the first phase of the design process is to find the problem to solve. Initially the projects had stricter guidlines and we knew exactly what problem we were trying to solve, but as the term went on the projects became more open ended and required us to find a problem to solve.
+The first task in each of our projects was for the team to get together and brainstorm ideas on where to take the project based on the assignment.  In the reading [The Design of Everyday Things](https://cs3041-18d.github.io/docs/reading/DesignThinking_DonNorman.pdf) the the first phase of the design process is to find the problem to solve. Initially the projects had stricter guidlines and we knew exactly what problem we were trying to solve, but as the term went on the projects became more open ended and required us to find a problem to solve. An example of a brainstorming list for the [Design for Another World](https://medium.com/@lukeypsilantis/design-for-another-world-6487db2ae039) can be seen below:
 
 ![brainstorming](https://github.com/Yippa11/HCI-Final-Project/blob/master/brainstorming-image.JPG)
 
