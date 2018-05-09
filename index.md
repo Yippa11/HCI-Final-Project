@@ -33,7 +33,9 @@ In my experience, user testing is perhaps the most important and useful point of
 Here are the videos of applications being demoed:
 							
 [Design for Tension](https://youtu.be/zDlTJC17kok)
+
 [Design for Wellbeing](https://youtu.be/4DVgaUKoh4s)
+
 [Design for Another World](https://youtu.be/tBPXYpVD_qk)
 			
 During my first round of testing for [Design for Wellbeing](https://medium.com/@hayley.boigenzahn/design-for-wellbeing-394db54501da), my group found that users were confused by the loading period while the Affectiva program recognized their face. To remedy this we added in a loading screen to the [final version](http://josephpetitti.com/hci-project5) to help solve this issue. This was a great example of how using user testing helped our team improve our application for the better.
